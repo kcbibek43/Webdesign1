@@ -1,0 +1,73 @@
+
+body{
+    background-color: bisque;
+}
+#box1{
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-color: white;
+    margin-left: 120px;
+    margin-top: 55px;
+    margin-bottom: 55px;
+    margin-right: 120px;
+}
+#box{
+    align-items: center;
+    justify-content: center;
+}
+li{
+    display: inline-flex;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: verdana, Arial, Helvetica, sans-serif;
+}
+#design-nav-bar{
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#main{
+    padding-left: 90px;
+    padding-top: 20px;
+    padding-right: 90px;
+    padding-bottom: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+img{
+    width: 350px;
+    height: 350px;
+    box-shadow: 10px black;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 130px;
+    height: 35px;
+    font-size: 9px;
+    margin-top: 10px;
+}
+h1{
+    font-weight: 500;
+    font-size: 50px;
+}
+#b{
+    font-family: verdana, Arial, Helvetica, sans-serif;  
+    padding-bottom: 35px;
+}
+
+#categories{
+    text-align: center;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 25px;
+}
